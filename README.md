@@ -14,3 +14,5 @@ Python é uma das linguagens de programação mais utilizadas do mundo e com iss
     # 3 - va ate o diretorio
     # 4 - python desafio_imprima_durma_imprima.py
     # 5 - para sair: deactivate
+
+![image](https://github.com/user-attachments/assets/fcf8e872-072e-413d-aca3-e16552452ae5)
